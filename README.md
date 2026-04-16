@@ -34,19 +34,15 @@ Al intentar eliminar un archivo:
 ## Evidencia
 
 ### Creación del bucket
-
 ![Creacion](creacion.png)
 
 ### Política aplicada
-
 ![Politica](política-agregada.png)
 
 ### Intento de eliminación
-
 ![Intento](eliminación-denegada.png)
 
 ### Resultado final
-
 ![Resultado](cubo-creado.png)
 
 ## Aprendizajes
