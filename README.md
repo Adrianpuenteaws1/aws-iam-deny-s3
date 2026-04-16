@@ -37,13 +37,13 @@ Al intentar eliminar un archivo:
 ![Creacion](creacion.png)
 
 ### Política aplicada
-![Politica](política-agregada.png)
+![Politica](politica-agregada.png)
 
 ### Intento de eliminación
-![Intento](eliminación-denegada.png)
+![Intento](eliminacion-denegada.png)
 
 ### Resultado final
-![Resultado](cubo-creado.png)
+![Resultado](bucket-creado.png)
 
 ## Aprendizajes
 
