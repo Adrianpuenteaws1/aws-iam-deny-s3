@@ -1,0 +1,1 @@
+# aws-iam-deny-s3
